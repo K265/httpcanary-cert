@@ -1,0 +1,6 @@
+id=httpcanary-cert
+name=HttpCanary Cert
+version=v1.0
+versionCode=1
+author=K.265
+description=a magisk module to install HttpCanary certificate as system certificate on Android 11+
